@@ -4,8 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("multiple messages one");
-console.log("after another")
+console.log("two messages", "same line");
+
 
 /*  
 Next, PLAY! 
