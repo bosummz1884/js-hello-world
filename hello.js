@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("[1+1]=2");
+console.log("multiple messages one");
+console.log("after another")
 
 /*  
 Next, PLAY! 
